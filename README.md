@@ -36,7 +36,7 @@ public var isjavaScriptEnabled: Bool = true
 /// 是否允许JS自动打开窗口的，必须通过用户交互才能打开
 public var isAutomaticallyJavaScript: Bool = true
 
-/// 是否影藏进度条
+/// 是否隐藏进度条
 public var isProgressHidden:Bool = false
 
 /// 进度条高度
